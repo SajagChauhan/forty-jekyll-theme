@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
+landing-title: 'Hi, My name is Sajag'
+description: "I am a DevOps Engineer working in TCS. I am an ML enthusiast."
 image: null
 author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+I am looking for a career change and my skills includes Python, SQL, Git, K8s, Docker, Cp4I.
